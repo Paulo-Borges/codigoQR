@@ -47,11 +47,11 @@ img {
     font-family: 'Outfit', sans-serif;
 }
 
-@media (max-width: 23.43rem) {
+@media (max-width: 22.18rem) {
     .container {
         width: 22.18rem;
     }
     body {
-        background:hsl(218, 44%, 22%) ;
+        background:hsl(0, 0%, 100%) ;
     }
 }
