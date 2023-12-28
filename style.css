@@ -47,6 +47,15 @@ img {
     font-family: 'Outfit', sans-serif;
 }
 
+@media (max-width: 25rem) {
+    .container {
+        width: 24.37rem;
+    }
+    body {
+        background:hsl(0, 0%, 100%) ;
+    }
+}
+
 @media (max-width: 23.43rem) {
     .container {
         width: 22.81rem;
