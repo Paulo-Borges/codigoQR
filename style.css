@@ -47,11 +47,38 @@ img {
     font-family: 'Outfit', sans-serif;
 }
 
+@media (max-width: 23.43rem) {
+    .container {
+        width: 22.81rem;
+    }
+    body {
+        background:hsl(220, 15%, 55%) ;
+    }
+}
+
+@media (max-width: 20.62rem) {
+    .container {
+        width: 20rem;
+    }
+    body {
+        background:hsl(218, 44%, 22%) ;
+    }
+}
+
 @media (max-width: 18.75rem) {
     .container {
         width: 18.12rem;
     }
     body {
         background:hsl(220, 15%, 55%) ;
+    }
+}
+
+@media (max-width: 16.87rem) {
+    .container {
+        width: 16.25rem;
+    }
+    body {
+        background:hsl(218, 44%, 22%) ;
     }
 }
