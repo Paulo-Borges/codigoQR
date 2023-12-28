@@ -47,9 +47,9 @@ img {
     font-family: 'Outfit', sans-serif;
 }
 
-@media (max-width: 22.50rem) {
+@media (max-width: 18.75rem) {
     .container {
-        width: 22.18rem;
+        width: 18.12rem;
     }
     body {
         background:hsl(220, 15%, 55%) ;
